@@ -65,7 +65,7 @@ Para fortalecer mi perfil hacia la nube y la infraestructura, me encuentro explo
 ### 📫 Contacto
 
 *   **LinkedIn:** [Tu Enlace de LinkedIn Aquí] <!-- Reemplaza esto con tu link -->
-*   **Email:** [tu-correo@ejemplo.com] <!-- Reemplaza esto con tu correo -->
+*   **Email:** [marisoljacobo725@gmail.com] <!-- Reemplaza esto con tu correo -->
 
 ---
 *“El aprendizaje continuo y la capacidad de adaptación son herramientas indispensables en el entorno tecnológico.”*
