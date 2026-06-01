@@ -1,47 +1,73 @@
 # Hola, soy Marisol Jacobo 👋
 
-🎓 **Estudiante de Técnico Superior Universitario en Servicios en la Nube (ESIT)**
+**Estudiante de Técnico Superior Universitario (TSU) en Servicios en la Nube (ESIT)**
 
-Soy una apasionada por la tecnología en constante aprendizaje. Mi enfoque principal es diseñar, automatizar y desplegar soluciones eficientes. Actualmente busco desarrollar experiencia práctica mediante una **estancia profesional** donde pueda aportar valor real a un equipo tecnológico.
+Soy una profesional en formación, apasionada por la tecnología, la automatización y el diseño de soluciones eficientes. Me destaco por mi capacidad de aprendizaje continuo y por aplicar conocimientos teóricos en proyectos reales. Actualmente me encuentro en la búsqueda de una **estancia profesional** en la que pueda integrarme a un equipo tecnológico, aportar valor desde el primer día y seguir desarrollando mis habilidades prácticas.
 
-### Interesada en:
-☁️ Cloud Computing  
-⚙️ Automatización e Infraestructura  
-💻 Desarrollo Web  
-📊 Dashboards  
-🚀 DevOps Junior  
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🏫 [Portal Educativo C.E. El Tinteral](https://github.com/jacobo19991/portal-educativo-tinteral)
-Sistema web educativo de alto rendimiento enfocado en la simplicidad para el docente.  
-*Arquitectura Serverless, Mobile-First, Vanilla JS, Vercel Edge Computing.*
-
-### 📈 [IMX Cloud Monitor](https://github.com/jacobo19991/imx-cloud-monitor)
-Bot de monitorización 24/7 y Paper Trading automatizado con persistencia local.  
-*Python, SQLite, API REST, Integración Telegram, Container-Ready (Docker).*
-
-### 🔔 [PulseFlow Alert System](https://github.com/jacobo19991/pulseflow-alert-system)
-Sistema automatizado de alertas para procesar y filtrar grandes volúmenes de datos.  
-*Python, Pandas, Requests, DevOps Culture (.env).*
-
-### 📊 [SmartEdu Monitor](https://github.com/jacobo19991/smartedu-monitor)
-*(Próximamente)* Dashboard interactivo para visualización eficiente de datos.  
-*React, TypeScript.*
+### 🎯 Áreas de Interés
+- Cloud Computing
+- Infraestructura TI
+- Automatización
+- Desarrollo Web
+- Dashboards
+- DevOps Junior
+- Integración de Servicios
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+### 💻 Tecnologías y Herramientas
 
-- **Desarrollo:** Python, JavaScript, TypeScript, HTML5, CSS3.
-- **Frameworks & Librerías:** React, Next.js, Pandas.
-- **Nube & Infraestructura:** Vercel, Docker, Serverless Functions.
-- **Herramientas:** Git, GitHub, SQLite, APIs REST, Postman.
+Cuento con bases sólidas y experiencia práctica académica y personal en las siguientes tecnologías:
+
+- **Desarrollo Web (Frontend):** HTML5, CSS3, JavaScript, React, TypeScript, Tailwind CSS
+- **Backend & Scripting:** Python, Pandas, APIs REST, Telegram API
+- **Bases de Datos:** SQL (académico), PostgreSQL (básico)
+- **Infraestructura & Herramientas:** Git, GitHub, Docker (básico)
+- **Despliegue & Hosting:** Vercel, GitHub Pages
 
 ---
 
-## 🎯 Objetivo Profesional
+### 🚀 Proyectos Destacados
 
-Busco integrarme a un entorno dinámico para desarrollar experiencia práctica en **Cloud Computing, Automatización e Infraestructura Tecnológica** mediante una estancia profesional, aportando soluciones escalables, manteniendo buenas prácticas de código y aprendiendo activamente metodologías DevOps.
+Aquí puedes ver algunos de los proyectos en los que he aplicado mis conocimientos:
+
+* **[Portal Educativo C.E. El Tinteral](https://github.com/jacobo19991/portal-educativo-tinteral)**  
+  *Descripción:* Sistema web educativo enfocado en simplificar y digitalizar la gestión para el docente.  
+  *Tecnologías:* JavaScript, HTML5, CSS3, Vercel.
+
+* **[IMX Cloud Monitor](https://github.com/jacobo19991/imx-cloud-monitor)**  
+  *Descripción:* Herramienta de monitorización continua. Integra recolección de datos y envío de notificaciones automáticas como bots.  
+  *Tecnologías:* Python, Telegram API, Docker.
+
+* **[PulseFlow Alert System](https://github.com/jacobo19991/pulseflow-alert-system)**  
+  *Descripción:* Sistema de automatización e integración de alertas en tiempo real. Diseñado para monitorear procesos y notificar eventos clave.  
+  *Tecnologías:* Python, APIs REST.
+
+* **[SmartEdu Monitor](https://github.com/jacobo19991/smartedu-monitor)**  
+  *Descripción:* Dashboard interactivo para el monitoreo de métricas y visualización de datos de manera clara e intuitiva.  
+  *Tecnologías:* React, TypeScript, Tailwind CSS.
+
+* **[Gestor de Solicitudes](https://github.com/jacobo19991/gestor-solicitudes)**  
+  *Descripción:* Aplicación para la administración ágil, seguimiento y control de tickets o peticiones.  
+  *Tecnologías:* HTML5, CSS3, JavaScript.
+
+---
+
+### 🌱 Actualmente Aprendiendo
+Me encuentro profundizando en prácticas fundamentales de **DevOps**, explorando la integración y despliegue continuo (CI/CD) con GitHub Actions, y afianzando mis conocimientos sobre empaquetado de aplicaciones en contenedores con Docker.
+
+---
+
+### 💼 Objetivo Profesional
+Mi principal objetivo a corto plazo es realizar una **estancia profesional** en los ámbitos de Cloud Computing, Infraestructura TI, Automatización o Desarrollo Web. Busco un entorno que fomente las buenas prácticas, el trabajo colaborativo y donde pueda contribuir a la resolución de problemas mediante tecnología mientras expando mi base técnica.
+
+---
+
+### 📫 Contacto
+
+- **LinkedIn:** [Enlace a tu LinkedIn] <!-- Reemplaza esto con el enlace real a tu perfil -->
+- **Email:** [tu-correo@ejemplo.com] <!-- Reemplaza esto con tu correo -->
+
+---
+
+*“La tecnología es una herramienta; el valor real está en nuestra capacidad para aprender, adaptarnos y utilizarla para resolver problemas.”*
